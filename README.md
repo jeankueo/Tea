@@ -2,16 +2,20 @@
 https://familienportal.de/familienportal/lebenslagen/schwangerschaft-geburt/checklisten
 
 ### Tasks after Birth
-- [ ] contact insurance (tk) for adding new born's name
+- [x] contact insurance (tk) for adding new born's name
 - [ ] apply for Kindergeld
-- [ ] apply for Elterngeld
-- [ ] mama upload birth certificate to employer
-- [ ] mama confirm Elternzeit with employer
+    - [ ] waiting for steuer ID
+- [x] apply for Elterngeld
+    - [ ] waiting for result
+- [x] mama upload birth certificate to employer
+    - [ ] waiting for reply
+- [x] mama confirm Elternzeit with employer
+    - [ ] waiting for reply
 - [ ] papa apply Elternzeit with employer (can be done later, just 7 weeks before it starts)
 - [ ] contact Kindergarten
-- [ ] contact Kinderartzt (for U3 termine)
+- [x] contact Kinderartzt (for U3 termine)
 - [ ] ? apply for passport / id ? Rathaus?
-- [ ] earring piecing only if hospital provide the service
+    - [ ] pending for marriage
 
 ### Kindergeld
 - [information about Kindergeld](https://www.arbeitsagentur.de/familie-und-kinder/infos-rund-um-kindergeld)
